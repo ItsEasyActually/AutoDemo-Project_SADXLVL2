@@ -1,0 +1,13 @@
+WindyValley 00E1
+Casinopolis 00E2
+SpeedHighway 00E3
+IceCap 00E4
+SkyDeck 00E5
+SandHill 00E6
+Chaos4 00E7
+EggHornet 00E9
+EggWalker 00E8
+SkyChase1 00EA
+SkyChase2 00EB
+EmeraldCoast 00EC
+RedMountain 00ED

@@ -1,0 +1,2 @@
+Ceci est la Crystal Ring.
+Elle réduit le temps requis pour la \nrecharge du Spin Dash Éclair.

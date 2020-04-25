@@ -1,0 +1,5 @@
+FinalEgg 2
+EmeraldCoast 0
+WindyValley 0
+RedMountain 1
+HotShelter 2

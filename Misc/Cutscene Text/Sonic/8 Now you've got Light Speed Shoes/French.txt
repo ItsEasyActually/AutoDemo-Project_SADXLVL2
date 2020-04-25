@@ -1,0 +1,6 @@
+Vous avez les 'Light Speed Shoes'.
+Maintenez appuyé le bouton d'action \npour recharger.
+Une fois la recharge terminée,
+relâchez le bouton pour effectuer\nun Spin Dash Éclair.
+Le Spin Dash Éclair vous permet \nd'aller très vite vers les anneaux.
+S'il y a une file d'anneaux,\nvous pouvez aller n'importe-où.

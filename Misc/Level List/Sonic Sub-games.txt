@@ -1,0 +1,6 @@
+SkyChase1 0
+SkyChase2 0
+IceCap 2
+SandHill 0
+TwinkleCircuit 0
+EggViper 0

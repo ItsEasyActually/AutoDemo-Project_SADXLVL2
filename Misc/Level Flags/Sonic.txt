@@ -1,0 +1,17 @@
+EmeraldCoast 00A6
+WindyValley 00A7
+Casinopolis 00A8
+TwinklePark 00A9
+SpeedHighway 00AA
+RedMountain 00AB
+IceCap 00AC
+SkyDeck 00AD
+LostWorld 00AE
+FinalEgg 00AF
+Chaos0 00B0
+Chaos4 00B1
+Chaos6 00B2
+EggHornet 00B3
+EggViper 00B4
+SkyChase1 00B5
+SkyChase2 00B6

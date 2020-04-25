@@ -1,0 +1,4 @@
+TwinklePark 1
+IceCap 3
+EmeraldCoast 2
+HotShelter 0

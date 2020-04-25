@@ -1,0 +1,10 @@
+EmeraldCoast 0
+WindyValley 0
+Casinopolis 0
+IceCap 0
+TwinklePark 0
+SpeedHighway 0
+RedMountain 0
+SkyDeck 0
+LostWorld 0
+FinalEgg 0

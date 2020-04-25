@@ -1,0 +1,4 @@
+Tu as maintenant les Fighting Gloves.
+Pour recharger, \nmaintenez appuyé le bouton d'action.
+Tu peux maintenant effectuer
+l'attaque Knuckles Max Chaleur.

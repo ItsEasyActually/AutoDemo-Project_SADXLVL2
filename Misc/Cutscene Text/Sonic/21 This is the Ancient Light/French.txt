@@ -1,0 +1,3 @@
+Ceci est l'Ancient Light.
+Essayez le Spin Dash Éclair vers \nl'ennemi.
+Avec ceci, vous pouvez maintenant\nfaire l'Attaque Spin-Éclair.

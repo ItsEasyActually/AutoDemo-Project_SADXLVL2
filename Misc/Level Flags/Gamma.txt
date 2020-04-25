@@ -1,0 +1,7 @@
+EmeraldCoast 019B
+WindyValley 019C
+RedMountain 019D
+HotShelter 019E
+FinalEgg 019F
+E101 01A0
+E101R 01A1

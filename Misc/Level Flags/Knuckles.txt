@@ -1,0 +1,12 @@
+Casinopolis 011F
+SpeedHighway 0120
+RedMountain 0121
+SkyDeck 0126
+LostWorld 0122
+Chaos2 0123
+Chaos4 0125
+Chaos6 0124
+TwinklePark 0156
+HotShelter 0157
+FinalEgg 0158
+Zero 0159
