@@ -21,9 +21,9 @@ namespace SADXObjectDefinitions.WindyValley
 
 		public override void Init(ObjectData data, string name)
 		{
-			modelA = ObjectHelper.LoadModel("Objects/Levels/Windy Valley/Raft2.sa1mdl");
+			modelA = ObjectHelper.LoadModel("Objects/Levels/Windy Valley/Raft01.sa1mdl");
 			meshesA = ObjectHelper.GetMeshes(modelA);
-			modelB = ObjectHelper.LoadModel("Objects/Levels/Windy Valley/Raft3.sa1mdl");
+			modelB = ObjectHelper.LoadModel("Objects/Levels/Windy Valley/Raft02.sa1mdl");
 			meshesB = ObjectHelper.GetMeshes(modelB);
 		}
 
